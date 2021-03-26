@@ -10,8 +10,8 @@
 ## Working <a href="https://github.com/DuyetQB/DuyetQB"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
 - `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
-- `Instructor` at Nordic Coder: [view it on Nordic Coder website](https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/)
-- `Owner` of a  Youtube Channel sharing about Frontend: `Easy Frontend` [https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A](https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A)
+
+- `Owner` of a  Youtube Channel sharing about Frontend: `Duyet` [https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A](https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A)
 - `Owner` of website [https://duyetpc.tk/](https://duyetpc.tk/) where I can share my favorite topics via blog posts.
 
 ## Projects for sharing
