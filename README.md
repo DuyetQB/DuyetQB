@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Easy Frontend banner](https://1.bp.blogspot.com/-2DU9_d7oh_s/X4vr6hZKzeI/AAAAAAAAI5g/Yx-ceEqeb58HlBuiOSZz9R-eopPIMfBngCNcBGAsYHQ/s320/83062935_836998056742944_5936652887730946048_n.jpg)
+![Easy Frontend banner](https://photos.app.goo.gl/HNKq8LVcF5WGN9Zs9)
 
 # Dinh Si Duyet- Frontend Developer
 
@@ -12,14 +12,14 @@
 - `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
 
 - `Owner` of a  Youtube Channel sharing about Frontend: `Duyet` [https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A](https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A)
-- `Owner` of website [https://duyetpc.tk/](https://duyetpc.tk/) where I can share my favorite topics via blog posts.
+- `Owner` of website [https://lenodev.com/](](https://lenodev.com/)) where I can share my favorite topics via blog posts.
 
 ## Projects for sharing
 
-- Music app: https://music-player-eight.vercel.app/?
-- Weather app: https://weather-me.vercel.app/
-- JS Calculator app: http://calculator-blond.vercel.app/
-- JS Todo list app:https://todolist-git-main-duyetqb.vercel.app/
+- Driving Theory UK website: (https://drivingtheoryai.co.uk/)
+- Link android:https://play.google.com/store/apps/details?id=com.duyetpro.Frontend
+- Link Appstore : (https://apps.apple.com/us/app/driving-theory-uk-2024/id6480314162)
+- Crowdwork website: https://crowdwork.dps-fpt.vn/home
 
 
 
