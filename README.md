@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Easy Frontend banner](https://portfolio-duyetqb.vercel.app/_next/image?url=%2Fassets%2Fimages%2Fphoto-me.png&w=1920&q=75)
+![Easy Frontend banner](https://photos.fife.usercontent.google.com/pw/AP1GczMWhlodJrYIHINtY7rWaUFtl-wz2Hebho8xNIxtq12w9Lr5mEK0fcE=w711-h948-s-no?authuser=0)
 )
 
 # Dinh Si Duyet- Frontend Developer
