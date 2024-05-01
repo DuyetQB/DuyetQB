@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Easy Frontend banner](https://photos.app.goo.gl/HNKq8LVcF5WGN9Zs9)
+![Easy Frontend banner](https://firebasestorage.googleapis.com/v0/b/lenodevapi.appspot.com/o/imagesanh-c%E1%BA%ADn-c%E1%BA%A3nh.jpg?alt=media&token=4991de0c-9632-4bfe-86d7-50d3fbf7f25d)
 
 # Dinh Si Duyet- Frontend Developer
 
