@@ -13,7 +13,7 @@
 - `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
 
 - `Owner` of a  Youtube Channel sharing about Frontend: `Duyet` [https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A](https://www.youtube.com/channel/UC_I3uJbLIU8wVRu1cRHBO9A)
-- `Owner` of website [https://lenodev.com/](](https://lenodev.com/)) where I can share my favorite topics via blog posts.
+- `Owner` of website [https://lenodev.com](https://lenodev.com) where I can share my favorite topics via blog posts.
 
 ## Projects for sharing
 
