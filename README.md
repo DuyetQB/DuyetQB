@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Easy Frontend banner](https://firebasestorage.googleapis.com/v0/b/lenodevapi.appspot.com/o/imagesanh-c%E1%BA%ADn-c%E1%BA%A3nh.jpg?alt=media&token=4991de0c-9632-4bfe-86d7-50d3fbf7f25d)
+![Easy Frontend banner](![image](https://github.com/DuyetQB/DuyetQB/assets/69998574/fe6b1f72-3818-423b-be16-e8f667fb3b3c)
+)
 
 # Dinh Si Duyet- Frontend Developer
 
