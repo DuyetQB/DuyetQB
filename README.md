@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Easy Frontend banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D4k&psig=AOvVaw3K8UMBw6op-0FwL546SF0r&ust=1714660248108000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiplazV7IUDFQAAAAAdAAAAABAE)
+![Easy Frontend banner](https://cdn.dribbble.com/userupload/14212710/file/original-66dea0af4668c1b24237b52507c2a399.png?resize=752x)
 )
 
 # Dinh Si Duyet- Frontend Developer
